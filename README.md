@@ -2,13 +2,13 @@
 I am a Software Developer with 6 years professional experience. I worked as Team Lead and Senior Developer. Currently work for @BilgeAdam.
  
 
-<p align="center">
+## GitHub Stats
+
 <a href="https://github.com/jasontaylordev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=handoreyn&show_icons=true&theme=nightowl&count_private=true" alt="JasonTaylorDev's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=handoreyn&theme=nightowl&layout=compact" 
-    alt="JasonTaylorDev GitHub Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=handoreyn&show_icons=true&theme=shades-of-purple&count_private=true" alt="Handoreyn's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=handoreyn&theme=shades-of-purple&layout=compact" 
+    alt="Handoreyn GitHub Top Languages" />
 </a>
-</p>
 <!--
 **handoreyn/handoreyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
