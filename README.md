@@ -4,10 +4,10 @@ I am a Software Developer with 6 years professional experience. I worked as Team
 
 ## GitHub Stats
 
-<a href="https://github.com/handoreyn">
+<a href="https://github.com/handoreyn" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=handoreyn&show_icons=true&theme=shades-of-purple&count_private=true" alt="Handoreyn's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=handoreyn&theme=shades-of-purple&layout=compact" 
-    alt="Handoreyn GitHub Top Languages" />
+    alt="Handoreyn's GitHub Top Languages" />
 </a>
 <!--
 **handoreyn/handoreyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
